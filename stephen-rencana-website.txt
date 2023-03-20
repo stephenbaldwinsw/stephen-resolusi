@@ -1,3 +1,4 @@
 Rencana Website Stephen
 - Website Baca Komik Seperti Void Scans
 - Menambahkan Komik Komik Populer
+- Membuat Website Yang Memiliki Banyak Fitur
