@@ -1,4 +1,7 @@
 Rencana Website Stephen
 - Website Baca Komik Seperti Void Scans
+  ^ STScans
 - Menambahkan Komik Komik Populer
-- Membuat Website Yang Memiliki Banyak Fitur
+  ^ Questism
+  ^ Lookism
+  ^ Manager Kim
